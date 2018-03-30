@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://35.185.21.29/"/>
-  <updated>2018-03-30T01:01:05.229Z</updated>
+  <updated>2018-03-30T01:42:21.038Z</updated>
   <id>http://35.185.21.29/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="http://35.185.21.29/2018/03/30/new-testing-project-BearMap/"/>
     <id>http://35.185.21.29/2018/03/30/new-testing-project-BearMap/</id>
     <published>2018-03-29T23:52:56.000Z</published>
-    <updated>2018-03-30T01:01:05.229Z</updated>
+    <updated>2018-03-30T01:42:21.038Z</updated>
     
-    <content type="html"><![CDATA[<p>BearMap practise project finished, and  posted on my GCE for testing.</p><p>Here is the link.&lt;%- link_to(‘<a href="http://104.196.25.245/map.html" target="_blank" rel="noopener">http://104.196.25.245/map.html</a>‘, ‘BearMap’) %&gt;</p><p>This project is a web mapping application of berkeley.</p><p>I developed the backend using Java, Apache Maven and GCE.</p><p>There are four main function has been implemented,<br>zoom in/out, map raster, road route and keyword search.</p><p>Capture<br>Zoom in<br>&lt;%- image_tag(<a href="http://i86.photobucket.com/albums/k96/Michaelyizhen/zoom%20in_zpsqtoovrav.gif" target="_blank" rel="noopener">http://i86.photobucket.com/albums/k96/Michaelyizhen/zoom%20in_zpsqtoovrav.gif</a>) %&gt;<br>Zoom out<br>&lt;%- image_tag(<a href="http://i86.photobucket.com/albums/k96/Michaelyizhen/zoom%20out_zpstab539nl.gif" target="_blank" rel="noopener">http://i86.photobucket.com/albums/k96/Michaelyizhen/zoom%20out_zpstab539nl.gif</a>) %&gt;<br>KeyWord<br>&lt;%- image_tag(<a href="http://i86.photobucket.com/albums/k96/Michaelyizhen/search_zpsziz1v8ye.gif" target="_blank" rel="noopener">http://i86.photobucket.com/albums/k96/Michaelyizhen/search_zpsziz1v8ye.gif</a>) %&gt;<br>Route<br>&lt;%- image_tag(<a href="http://i86.photobucket.com/albums/k96/Michaelyizhen/route_zpseot91gu4.gif" target="_blank" rel="noopener">http://i86.photobucket.com/albums/k96/Michaelyizhen/route_zpseot91gu4.gif</a>) %&gt;<br>Clear Route<br>&lt;%- image_tag(<a href="http://i86.photobucket.com/albums/k96/Michaelyizhen/clear_zps9mzobfbu.gif" target="_blank" rel="noopener">http://i86.photobucket.com/albums/k96/Michaelyizhen/clear_zps9mzobfbu.gif</a>) %&gt;</p>]]></content>
+    <content type="html"><![CDATA[<p>BearMap practise project finished, and  posted on my GCE for testing.</p><p>Here is the link.Here is the link.&lt;%- link_to(‘<a href="http://104.196.25.245/map.html" target="_blank" rel="noopener">http://104.196.25.245/map.html</a>‘, ‘BearMap’) %&gt;</p><p>This project is a web mapping application of berkeley.</p><p>I developed the backend using Java, Apache Maven and GCE.</p><p>There are four main function has been implemented,<br>zoom in/out, map raster, road route and keyword search.</p><p>Capture<br>Zoom in<br><img src="http://i86.photobucket.com/albums/k96/Michaelyizhen/zoom%20in_zpsqtoovrav.gif" alt="Zoom in"><br>Zoom out<br><img src="http://i86.photobucket.com/albums/k96/Michaelyizhen/zoom%20out_zpstab539nl.gif" alt="Zoom out"><br>KeyWord<br><img src="http://i86.photobucket.com/albums/k96/Michaelyizhen/search_zpsziz1v8ye.gif" alt="KeyWord"><br>Route<br><img src="http://i86.photobucket.com/albums/k96/Michaelyizhen/route_zpseot91gu4.gif" alt="Route"><br>Clear Route<br><img src="http://i86.photobucket.com/albums/k96/Michaelyizhen/clear_zps9mzobfbu.gif" alt="Clear Route"></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;BearMap practise project finished, and  posted on my GCE for testing.&lt;/p&gt;
-&lt;p&gt;Here is the link.&amp;lt;%- link_to(‘&lt;a href=&quot;http://104.196.25.
+&lt;p&gt;Here is the link.Here is the link.&amp;lt;%- link_to(‘&lt;a href=&quot;h
       
     
     </summary>
